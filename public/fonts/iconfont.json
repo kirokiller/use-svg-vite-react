@@ -1,0 +1,23 @@
+{
+  "id": "4455852",
+  "name": "my-icons",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1973140",
+      "name": "赞",
+      "font_class": "like__easyico",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "658060",
+      "name": "赞",
+      "font_class": "zan",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    }
+  ]
+}
